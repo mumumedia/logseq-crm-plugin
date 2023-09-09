@@ -1,2 +1,2 @@
 # logseq-crm-plugin
-LogseqCRM data enrichment plugin
+Logseq CRM data enrichment plugin
